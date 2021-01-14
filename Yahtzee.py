@@ -6,6 +6,8 @@ import random
 # November 12, 2018
 # Caden Steele
 # -------------------------------------------------
+# Not all of this file was written by myself
+#--------------------------------------------------
 
 ###############
 ## Class to hold the value of a single die
