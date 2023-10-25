@@ -1,2 +1,2 @@
 # Python-Projects
-This repository contains several separate python projects.
+This repository contains several miscellaneous separate python projects.
